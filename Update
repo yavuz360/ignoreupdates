@@ -1,6 +1,5 @@
 defaults write com.apple.systempreferences AttentionPrefBundleIDs 0
 killall Dock
 echo -e "\033[32mSuccessfully completed\033[0m"
-open "https://raw.githubusercontent.com/yavuz360/ignoreupdates/main/success.md"
 
 
