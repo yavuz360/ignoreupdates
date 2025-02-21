@@ -1,10 +1,12 @@
-# ignoreupdates
-A simple mac command to ignore that red update notification bubble! 
+# UpdateBunny
+![UpdateBunny](https://github.com/user-attachments/assets/3f3681ef-4224-4095-ae00-9b4b043d1140)
+
+A simple mac bunny to ignore that red update notification bubble! 
 
 Instructions:
-* Download the **Update** file
-* Double click to run it and enjoy the peace from the red bubbles
+* Download the latest release
+* Run the app whenever the notifications appear
 
 > [!NOTE]
-> When the bubbles occur again, do it again. This wont block the updates from auto installing if enabled!
-> I have no responsibility of potential risks about skipping updates
+> The bunny isn't capable of disabling updates, just hides them.
+> The bunny has no responsibility of potential risks about skipping updates
